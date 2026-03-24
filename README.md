@@ -25,12 +25,11 @@ The dataset used is the LCF 2013 teaching dataset provided for educational purpo
 
 ### Tech Stack
 - Python  
-- pandas  
-- numpy  
-- matplotlib  
-- seaborn  
-- statsmodels  
-- scipy  
+- pandas - data manipulation  
+- numpy - numerical operations  
+- matplotlib, seaborn - data visualization  
+- statsmodels - regression modeling (OLS)  
+- scipy - statistical tests    
 
 ### Notes
 Group project completed as part of Mayerfeld Data Analysis Practicum.
